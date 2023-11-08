@@ -8,5 +8,5 @@ for n, e in zip(nombres, edades): # En cada iteracion, 'n' es un nombre y 'e'una
 # Itera a traves de dos listas ('nombres' y 'edades') utilizando zip para combinarlas y luego imprime un mensaje formateado con los valores.
 
 # Crea un diccionario utilizando un diccionario por comprension con claves siendo valores al cuadrado para los elementos en el rango (2, 4, 6).
-dicaleatorio = {x: x**2 for x in (2, 4, 6)}
-print(dicaleatorio) 
+dicAleatorio = {x: x**2 for x in (2, 4, 6)}
+print(dicAleatorio) 
