@@ -5,4 +5,4 @@ diccionario = dict()
 # Se crea un diccionario vacio utilizando llaves.
 diccionario = {}
 # Se crea un diccionario con dos claves ('nombre' y 'edad') y sus respectivos valores.
-Diccionario = {'nombre': 'Sandra', 'edad': 44}
+diccionario = {'nombre': 'Sandra', 'edad': 44}
